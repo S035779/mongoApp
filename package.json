@@ -1,0 +1,26 @@
+{
+  "name": "mongodb-sample-code1",
+  "version": "0.0.1",
+  "description": "Mongo DB sample code #1.",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^4.4.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mamoru Hashimoto",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S035779/mongoApp.git"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "bugs": {
+    "url": "https://github.com/S035779/mongoApp/issues"
+  },
+  "homepage": "https://github.com/S035779/mongoApp#readme"
+}
